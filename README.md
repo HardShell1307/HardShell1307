@@ -4,7 +4,7 @@
        About Me:</h1>
       <p>
       
-<img src="https://github.com/HardShell1307/HardShell1307/assets/102977103/f7515258-a01d-4d66-952e-44c8cd3b667e" width="25" height="25"> I’m currently working on Machine Learning & Android.<br>
+<img src="https://github.com/HardShell1307/HardShell1307/assets/102977103/f7515258-a01d-4d66-952e-44c8cd3b667e" width="25" height="25"> I’m currently working on ML & Android.<br>
 
 <img src="https://github.com/HardShell1307/HardShell1307/assets/102977103/f6b8ea0e-3de6-4d67-a8b3-774a5fa1e7d4" width="25" height="25"> I’m looking to collaborate on applications and integrating AI/ML<br>
         
