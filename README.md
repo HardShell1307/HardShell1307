@@ -45,6 +45,8 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=HardShell1307&limit=5&theme=gitdimmed&combine_all_yearly_contributions=true)
 ---
-[![](https://visitcount.itsvg.in/api?id=HardShell1307&icon=5&color=9)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=HardShell1307&label=Profile%20Views&pretty=false" />
+</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
