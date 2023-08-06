@@ -45,7 +45,7 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=HardShell1307&limit=5&theme=gitdimmed&combine_all_yearly_contributions=true)
 ---
-<a href="https://visitcount.itsvg.in">
+<a>
   <img src="https://visitcount.itsvg.in/api?id=HardShell1307&label=Profile%20Views&color=9&icon=5&pretty=false" />
 </a>
 
