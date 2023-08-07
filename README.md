@@ -48,10 +48,9 @@
 <a>
   <img src="https://visitcount.itsvg.in/api?id=HardShell1307&label=Profile%20Views&color=9&icon=5&pretty=false" />
 </a>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/HardShell1307/HardShell1307/blob/output/github-contribution-grid-snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/HardShell1307/HardShell1307/blob/output/github-contribution-grid-snake.gif" />
-  <img alt="github-snake" src="https://github.com/HardShell1307/HardShell1307/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HardShell1307/HardShell1307/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HardShell1307/HardShell1307/output/github-contribution-grid-snake.gif" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/HardShell1307/HardShell1307/output/github-contribution-grid-snake.svg" />
 </picture>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
